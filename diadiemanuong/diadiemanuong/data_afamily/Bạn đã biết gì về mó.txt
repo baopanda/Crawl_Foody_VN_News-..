@@ -1,0 +1,77 @@
+Bạn đã biết gì về món trứng
+Với bạn, trứng là món khoái khẩu và bạn rất vui vì giờ đây lại có thể ăn trứng thoải mái, khi dịch cúm gia cầm đã được khống chế.
+
+
+Tuy nhiên, bạn hãy cân nhắc khi dùng trứng cho mục đích sức khỏe, làm đẹp. Dưới đây là những khám phá mới về lợi ích của trứng. Bạn sẽ biết mình nên và không nên làm gì với thực phẩm này. 
+ 
+Một quả trứng cung cấp cho cơ thể khoảng 70 calorie và không có carbohydrate. Tuy nhiên, trứng lại cung cấp nhiều chất dinh dưỡng và protein cần thiết. Chính vì vậy, trứng là sự lựa chọn khôn ngoan cho những ai muốn giảm cân và kiểm soát lượng calorie đưa vào cơ thể mỗi ngày. 
+ 
+Lòng đỏ trứng chứa chất lutein và zeaxanthin, bảo vệ da khỏi các vết tàn nhang. Hơn nữa, carotenoid, chất chống ôxy hóa, trong lòng đỏ thẩm thấu vào cơ thể tốt hơn carotenoid có trong thực vật như cà rốt, đu đủ... Chất này rất tốt cho mắt, giúp bảo vệ mắt khỏi bệnh thoái hóa hoàng điểm. 
+Ngoài ra, lòng đỏ trứng còn cung cấp vitamin D tự nhiên, mở rộng chức năng của canxi, giúp xương chắc khỏe. Đặc biệt, lòng đỏ còn giúp cơ thể thu nạp folate, ngăn chặn sự thiếu hụt folate ở trẻ em và bệnh tim mạch ở người lớn tuổi. 
+ 
+Trứng mềm, dễ nhai và dễ tiêu hóa. Vì thế, ngoài việc cung cấp nguồn dinh dưỡng cao, trứng là thực phẩm thích hợp đối với những người gặp khó khăn trong việc nhai thức ăn hoặc đang dùng răng giả. 
+ 
+Một người sức khỏe bình thường có thể ăn một quả trứng một ngày mà không sợ tăng nguy cơ mắc bệnh tim hoặc đột quỵ. 
+
+Trung bình một quả trứng chứa khoảng 5gr chất béo (cả chất béo bão hòa và chất béo không bão hòa). Nếu ăn nhiều trứng, các chất béo sẽ tích tụ nhiều trong cơ thể, dẫn đến hậu quả khó lường cho sức khỏe và quả tim của bạn. 
+ 
+Nếu lượng cholesterol trong máu thấp, bạn có thể thưởng thức cả lòng trắng và lòng đỏ trứng. Tuy nhiên, để ngăn chặn bệnh tim, cần hạn chế chất béo, đặc biệt là chất béo bão hòa và chuyển hóa. Chính vì vậy, bạn nên ăn kèm trứng với rau xanh, trái cây. Tránh ăn trứng cùng các thực phẩm chứa nhiều chất béo khác. 
+                                                                                                                                                            Theo 
+
+                        
+
+
+	//<![CDATA[
+	function open_win(url,rong,cao)
+	{
+		if(rong>screen.width||cao>screen.height) {
+			str = "scrollbars=yes,resizable=yes,left="+(screen.width-rong)/2+",top="+(screen.height-cao)/2+",width="+rong+",height="+cao
+		} else {
+			str = "scrollbars=no,resizable=no,left="+(screen.width-rong)/2+",top="+(screen.height-cao)/2+",width="+rong+",height="+cao
+		}
+		window.open(url,"_blank",str)
+	}
+	//]]>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tuy nhiên, bạn hãy cân nhắc khi dùng trứng cho mục đích sức khỏe, làm đẹp. Dưới đây là những khám phá mới về lợi ích của trứng. Bạn sẽ biết mình nên và không nên làm gì với thực phẩm này. 
+
+
+Ăn trứng để giảm cân
+ 
+Một quả trứng cung cấp cho cơ thể khoảng 70 calorie và không có carbohydrate. Tuy nhiên, trứng lại cung cấp nhiều chất dinh dưỡng và protein cần thiết. Chính vì vậy, trứng là sự lựa chọn khôn ngoan cho những ai muốn giảm cân và kiểm soát lượng calorie đưa vào cơ thể mỗi ngày. 
+Trứng rất cần thiết cho mắt, da và xương
+ 
+Lòng đỏ trứng chứa chất lutein và zeaxanthin, bảo vệ da khỏi các vết tàn nhang. Hơn nữa, carotenoid, chất chống ôxy hóa, trong lòng đỏ thẩm thấu vào cơ thể tốt hơn carotenoid có trong thực vật như cà rốt, đu đủ... Chất này rất tốt cho mắt, giúp bảo vệ mắt khỏi bệnh thoái hóa hoàng điểm. 
+Ngoài ra, lòng đỏ trứng còn cung cấp vitamin D tự nhiên, mở rộng chức năng của canxi, giúp xương chắc khỏe. Đặc biệt, lòng đỏ còn giúp cơ thể thu nạp folate, ngăn chặn sự thiếu hụt folate ở trẻ em và bệnh tim mạch ở người lớn tuổi. 
+Nên chọn món trứng khi có vấn đề răng miệng
+ 
+Trứng mềm, dễ nhai và dễ tiêu hóa. Vì thế, ngoài việc cung cấp nguồn dinh dưỡng cao, trứng là thực phẩm thích hợp đối với những người gặp khó khăn trong việc nhai thức ăn hoặc đang dùng răng giả. 
+Không nên ăn quá một quả trứng mỗi ngày
+ 
+Một người sức khỏe bình thường có thể ăn một quả trứng một ngày mà không sợ tăng nguy cơ mắc bệnh tim hoặc đột quỵ. 
+
+Trung bình một quả trứng chứa khoảng 5gr chất béo (cả chất béo bão hòa và chất béo không bão hòa). Nếu ăn nhiều trứng, các chất béo sẽ tích tụ nhiều trong cơ thể, dẫn đến hậu quả khó lường cho sức khỏe và quả tim của bạn. 
+Nên ăn trứng kết hợp với nhiều rau xanh, trái cây
+ 
+Nếu lượng cholesterol trong máu thấp, bạn có thể thưởng thức cả lòng trắng và lòng đỏ trứng. Tuy nhiên, để ngăn chặn bệnh tim, cần hạn chế chất béo, đặc biệt là chất béo bão hòa và chuyển hóa. Chính vì vậy, bạn nên ăn kèm trứng với rau xanh, trái cây. Tránh ăn trứng cùng các thực phẩm chứa nhiều chất béo khác. 
+
+
+                                                                                                                                                            Theo 
+Tiếp Thị Gia Đình
+
+                    
+
+
